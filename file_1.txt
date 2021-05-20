@@ -2,3 +2,6 @@ Adding Text
 git hub training
 intro to git hub
 git bash is cool
+rachel's test line 1
+rachel's test line 2
+sorry my lines are boring
