@@ -1,3 +1,4 @@
+Adding Text 
 git hub training
 intro to git hub
 git bash is cool
